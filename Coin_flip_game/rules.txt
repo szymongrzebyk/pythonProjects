@@ -1,0 +1,8 @@
+Gracz rzuca monetą do czasu, gdy wypadnie orzeł lub gdy skończą się rzuty, za które zapłacił.
+Na początku gracz wpłaca pewną kwotę, co najmniej 3 zł. Następnie rzuca monetą maksymalnie tyle razy, ile zł wpłacił na początku.
+Gdy wypadnie orzeł gra się kończy, a gracz zyskuje tyle zł ile wynosi 2 do potęgi numer rundy, w której wypadł orzeł.
+Przykład 1:
+Gracz wpłaca 4 zł, więc ma prawo do 4 rzutów.
+Wyrzuca reszkę, znowu reszkę, a następnie orła. Rzucił 3 razy, ale gra się kończy, ponieważ wyrzucił orła. Wygrywa 2 do 3, czyli 8 zł.
+Przykład 2:
+Gracz płaci 2 zł, a następnie wyrzuca 2 razy reszkę. Gra kończy się, ponieważ gracz wykorzystał wszystkie rzucty, za które zapłacił. Wygrywa 4 zł.
